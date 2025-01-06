@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "changelog": "First Beta. Fixed: 1. Уменьшение количества светодиодов в live режиме 2. Перевод интерфейса на русский Добавлено: 3. Автообновление прошивки",
+    "version": "1.0.1",
+    "changelog": "Beta. Added: Autoupdate checkbox",
     "bin_url": "https://raw.githubusercontent.com/FeelDiference/moonlamp_binary/main/FW_1.0.0_SmartMoon.bin"
   }
