@@ -2,7 +2,7 @@
   "firmware": {
     "version": "1.1.0",
     "changelog": "Still Beta. 1) Добавлен облачный сервер 2) Исправлены множество багов 3) Добавлен новый тип намотки ленты (матрица) 4) Добавлена поддержка акселерометра 5) Веб сервер вынесен на отдельный поток 6) Оптимизация кода и переход на VSCode и ООП 7) Добавлены новые анимации 8) Переработан пользовательский интерфейс 9) Автообновления теперь могут приходить отдельно на интерфейс и на систему",
-    "bin_url": "https://raw.githubusercontent.com/FeelDiference/moonlamp_binary/main/FW_1_1_0_SmartMoon.bin"
+    "bin_url": "https://raw.githubusercontent.com/FeelDiference/moonlamp_binary/main/FM_1_1_0_SmartMoon.bin"
   },
   "spiffs": {
     "version": "1.1.0",
